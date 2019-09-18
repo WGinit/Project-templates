@@ -2,6 +2,7 @@
 node_modules
 /dist
 vue-pc
+vue-h5
 
 # local env files
 .env.local
